@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**dream0220/dream0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Sapana a Computer Engineering student and aspiring Python Developer. 
+I'm passionate about coding, learning new technologies and building real-world projects. 
+Currently, I'm focusing on Python, backend development and AI/ML. 
+I believe in continuous learning and improving myself every day.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
